@@ -1,0 +1,8 @@
+# Editor Configurations
+.vscode
+
+# Binary Files
+rssagg
+
+# Environment Variables
+.env 
